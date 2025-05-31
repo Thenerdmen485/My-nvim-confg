@@ -8,8 +8,13 @@ Esses são os plugins e arquivos da minha configuração do neovim, juntamente c
     https://wezterm.org
    Neovim
      https://neovim.io
+
+
+
+
+
 O esquema de diretorios e pastas 
-     Partição
-       Dados
-         Projetos
+     Partição:
+       Dados:
+         Projetos:
            
